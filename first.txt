@@ -1,5 +1,4 @@
 first: just write something
 
-second: test the branch of second
 
 main: back to main branch to commit test
