@@ -1,0 +1,23 @@
+1. first modified
+
+2. second modified
+
+
+this is somthing just to test git can split different modified.
+
+
+
+git add -p
+again, I want to test modified;
+but how git split file for different modified
+
+
+
+# ----------------------------------------------
+# second again
+
+
+
+
+# comment is how to split, this is a differentce modified
+so let's split again
